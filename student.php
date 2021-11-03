@@ -12,15 +12,16 @@
   </head>
   <body>
 
+  <h2>Php Crud</h2>
 
   <div class="container">
-  <br>    
+  <br>
+
   <br>  
 <a  class="btn btn-primary" href="addstudent.php" role="button">Add New Record</a>
 <a  class="btn btn-primary" href="addteacher.php" role="button">Add Teacher</a>
 <a  class="btn btn-primary" href="addbatch.php" role="button">Make Batch</a>
   <br>    
-   
   <br>    
   <br>    
       <table class="table table-striped table-inverse table-responsive">
